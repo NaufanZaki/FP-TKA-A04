@@ -122,6 +122,11 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
     ![alt text](<WhatsApp Image 2024-06-21 at 01.14.04_f590653b.jpg>)
 
+   ### Uji Coba Di Locust
+
+   ![WhatsApp Image 2024-06-21 at 11 48 30_2487ecde](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/85f45716-1197-4764-83b5-24ac303c0a1c)
+
+
 
     
 
