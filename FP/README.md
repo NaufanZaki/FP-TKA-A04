@@ -128,8 +128,7 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
    ### Uji Coba Di Locust
 
-   **Berikut merupakan IP yang digunakan: 34.101.54.162
-34.101.181.48**
+   **Berikut merupakan IP yang digunakan: 34.101.54.162 dan 34.101.181.48**
 
    ![WhatsApp Image 2024-06-21 at 16 05 47_186fdda1](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/7ea449d2-072d-4263-902c-af02281e7952)
 
