@@ -74,7 +74,9 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
     ### Set Up dan Konfigurasi Database
    
     ![alt text](<WhatsApp Image 2024-06-20 at 23.16.36_199de0f0.jpg>)
+   
     lakukan config awal untuk meng set up database dengan menggunakan command seperti ini:
+   
     ~~~
     sudo apt update
     sudo apt upgrade
