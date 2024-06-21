@@ -129,6 +129,10 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
    ![WhatsApp Image 2024-06-21 at 13 57 13_9fa09c1c](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/a9febdd8-244d-4fe7-9a16-daec6a5eca3d)
 
+   Bisa dilihat pada gambar diatas bahwa jumlah RPS yang dapat ditangani oleh server dalam 1 menit adalah 493.3
+
+   
+
 
    ## Kesimpulan
 
