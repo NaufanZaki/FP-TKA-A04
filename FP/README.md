@@ -56,6 +56,7 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
     ## Rancangan Arsitektur Cloud
 
     Pada rancangan ini kami menggunakan model yaitu 1 web service, 1 load balancer, 2 worker, dan 1 database seperti gambar berikut:
+   
     ![alt text](image-1.png)
 
     pada rancangan tersebut kami menggunakan Google Cloud Platform dengan spesifikasi seperti berikut:
