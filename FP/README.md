@@ -128,11 +128,16 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
    ### Uji Coba Di Locust
 
-   ![WhatsApp Image 2024-06-21 at 11 48 30_2487ecde](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/85f45716-1197-4764-83b5-24ac303c0a1c)
+   ![WhatsApp Image 2024-06-21 at 16 05 47_186fdda1](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/7ea449d2-072d-4263-902c-af02281e7952)
 
-   ![WhatsApp Image 2024-06-21 at 13 57 13_9fa09c1c](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/a9febdd8-244d-4fe7-9a16-daec6a5eca3d)
+   ![WhatsApp Image 2024-06-21 at 16 09 49_a6614a03](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/e0283b42-1672-4c67-bd65-2a00215ae0c4)
 
-   Bisa dilihat pada gambar diatas bahwa jumlah RPS yang dapat ditangani oleh server dalam 1 menit adalah 493.3
+   ![WhatsApp Image 2024-06-21 at 16 12 38_0ff690fb](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/d64a3ff4-5332-4365-8cd2-c57fc2ffd8dd)
+
+   
+
+
+
 
    
 
