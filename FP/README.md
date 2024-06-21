@@ -132,7 +132,19 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
    ![WhatsApp Image 2024-06-21 at 16 09 49_a6614a03](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/e0283b42-1672-4c67-bd65-2a00215ae0c4)
 
+   400 - 100
+
    ![WhatsApp Image 2024-06-21 at 16 12 38_0ff690fb](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/d64a3ff4-5332-4365-8cd2-c57fc2ffd8dd)
+
+   400 - 200
+
+   ![WhatsApp Image 2024-06-21 at 16 14 46_2d8b1859](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/34a16dd7-75df-4351-aee2-5f8308cbdb5e)
+
+   400 - 500
+
+   ![WhatsApp Image 2024-06-21 at 16 16 44_5a94c39d](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/406a125d-1923-4e49-8675-ff37d1684862)
+
+
 
    
 
@@ -143,6 +155,8 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
 
    ## Kesimpulan
+
+   Bisa disimpulkan bahwa client tidak memiliki pengaruh yang besar dalam arsitektur cloud dan juga semakin besar balance yang diprovide dari suatu cloud service maka request per second yang dihasilkan akan semakin besar
 
 
     
