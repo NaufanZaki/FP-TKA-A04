@@ -88,7 +88,7 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
     # Install mongodb
     wget -qO- https://pgp.mongodb.com/server-7.0.asc | gpg --dearmor | sudo tee /usr/share/keyrings/mongodb-server-7.0.gpg >/dev/null
-    echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu $(lsb_release -cs)/mongodb-org/7.0 multiverse" | sudo tee -a /etc/apt/sources.list.d/mongodb-org-7.0.list
+    echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu $(lsb_release -cs)/mongodb-org/7.0 multiverse" | sudo tee -a         /etc/apt/sources.list.d/mongodb-org-7.0.list
     sudo apt update
     sudo apt install mongodb-org -y
     ~~~
@@ -127,6 +127,7 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
    ![WhatsApp Image 2024-06-21 at 11 48 30_2487ecde](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/85f45716-1197-4764-83b5-24ac303c0a1c)
 
+   ## Kesimpulan
 
 
     
