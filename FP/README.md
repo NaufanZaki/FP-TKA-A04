@@ -61,6 +61,9 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
     pada rancangan tersebut kami menggunakan Google Cloud Platform dengan spesifikasi seperti berikut:
 
+   ![WhatsApp Image 2024-06-21 at 15 20 47_e84389c0](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/c1de1180-f676-416c-8d4a-00ba117ac7ba)
+
+
     | Nama | Spesifikasi | Harga |
     |-----------------------|--------------| --------- |
     | Client - 10.184.0.5 | 2 vCPU + 4 GB memory + 25 GB disk | $9.52 |
