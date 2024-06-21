@@ -72,6 +72,7 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
     ## Implementasi
 
     ### Set Up dan Konfigurasi Database
+   
     ![alt text](<WhatsApp Image 2024-06-20 at 23.16.36_199de0f0.jpg>)
     lakukan config awal untuk meng set up database dengan menggunakan command seperti ini:
     ~~~
@@ -97,13 +98,16 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
     sudo systemctl enable mongod
     ~~~
 
-    Masuk ke Konfigurasi MongoDB dengan `sudo nano /etc/mongod.conf`    
+    Masuk ke Konfigurasi MongoDB dengan `sudo nano /etc/mongod.conf`
+      
     ![alt text](<WhatsApp Image 2024-06-20 at 23.17.34_dcb5e892.jpg>)
 
     ![alt text](<WhatsApp Image 2024-06-20 at 23.30.53_7d6e15c2.jpg>)
 
     Membuat User dan Pass
+   
     ![alt text](<WhatsApp Image 2024-06-20 at 23.41.06_20ae04c5.jpg>)
+   
     ![alt text](<WhatsApp Image 2024-06-20 at 23.42.42_5ab5e758.jpg>)
 
     ### Set Up Client
