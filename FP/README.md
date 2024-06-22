@@ -126,6 +126,12 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
     ![alt text](<WhatsApp Image 2024-06-21 at 01.14.04_f590653b.jpg>)
 
+    ### Uji Coba Get /history
+    ![alt text](<WhatsApp Image 2024-06-21 at 10.58.56_29ab6bbc.jpg>)
+
+    ### Uji Coba Post /analyze
+    ![alt text](<WhatsApp Image 2024-06-21 at 10.59.29_127df4ec.jpg>)
+
    ### Uji Coba Di Locust
 
    **Berikut merupakan IP yang digunakan: 34.101.54.162 dan 34.101.181.48**
@@ -158,7 +164,7 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
    ## Kesimpulan
 
-   Bisa disimpulkan bahwa client tidak memiliki pengaruh yang besar dalam arsitektur cloud dan juga semakin besar balance yang diprovide dari suatu cloud service maka request per second yang dihasilkan akan semakin besar
+   Bisa disimpulkan bahwa semakin besar spesifikasi yang digunakan pada suatu environment cloud, maka angka request per second yang dapat di-handle akan semakin besar.
 
 
     
