@@ -135,20 +135,29 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
    ### Uji Coba Di Locust
 
    **Berikut merupakan IP yang digunakan: 34.101.54.162 dan 34.101.181.48**
-
+    
+    ### 1. Berapakah jumlah Request per seconds (RPS) maksimum yang dapat ditangani oleh server dengan durasi waktu load testing 60 detik? (tingkat failure harus 0%)
    ![WhatsApp Image 2024-06-21 at 16 05 47_186fdda1](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/7ea449d2-072d-4263-902c-af02281e7952)
 
-   ![WhatsApp Image 2024-06-21 at 16 09 49_a6614a03](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/e0283b42-1672-4c67-bd65-2a00215ae0c4)
+    RPS yang didapatkan berjumlah 130 Request
+    ***
+    ### 2. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 50 dan durasi waktu load testing 60 detik? (tingkat failure harus 0%)
+   ![WhatsApp Image 2024-06-21 at 16 05 47_186fdda1](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/7ea449d2-072d-4263-902c-af02281e7952)
+   Mendapatkan 400 Peak Concurrency dengan Spawn Rate 50
+   ***
+    ### 3. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 100 dan durasi waktu load testing 60 detik? (tingkat failure harus %)
+    ![WhatsApp Image 2024-06-21 at 16 09 49_a6614a03](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/e0283b42-1672-4c67-bd65-2a00215ae0c4)
+    Mendapatkan 400 Peak Currency dengan Spawn Rate 100
+   ***
+    ### 4. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 200 dan durasi waktu load testing 60 detik? (tingkat failure harus 0%)
 
-   400 - 100
-
-   ![WhatsApp Image 2024-06-21 at 16 12 38_0ff690fb](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/d64a3ff4-5332-4365-8cd2-c57fc2ffd8dd)
-
-   400 - 200
-
+    ![WhatsApp Image 2024-06-21 at 16 12 38_0ff690fb](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/d64a3ff4-5332-4365-8cd2-c57fc2ffd8dd)
+    Mendapatkan 400 Peak Concurrency dengan Spawn Rate 200
+   ***
+    ### 5. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 500 dan durasi waktu load testing 60 detik? (tingkat failure harus 0%)
    ![WhatsApp Image 2024-06-21 at 16 14 46_2d8b1859](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/34a16dd7-75df-4351-aee2-5f8308cbdb5e)
-
-   400 - 500
+    Mendapatkan 400 Peak Concurrency dengan Spawn Rate 500
+    ***
 
    ![WhatsApp Image 2024-06-21 at 16 16 44_5a94c39d](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/406a125d-1923-4e49-8675-ff37d1684862)
 
