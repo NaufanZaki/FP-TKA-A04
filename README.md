@@ -66,14 +66,13 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
 
     | Nama | Spesifikasi | Harga |
     |-----------------------|--------------| --------- |
-    | Client - 10.184.0.5 | 2 vCPU + 4 GB memory + 25 GB disk | $9.52 |
-    | Database - 10.184.0.4 | 2 vCPU + 4 GB memory + 25 GB disk | $9.52 |
-    | Load Balancer - 10.184.0.3| 2 vCPU + 4 GB memory + 25 GB disk |  $9.52 |
-    | Worker 1 - 10.184.0.2 | 2 vCPU + 4 GB memory + 25 GB disk | $9.52 |
-    | Worker 2 - 10.184.0.6 | 2 vCPU + 4 GB memory + 25 GB disk | $9.52 |
-    |Total | | $47.6 |
+    | Database | 2 vCPU + 1 GB memory + 10 GB disk | $9.52 |
+    | Load Balancer | 2 vCPU + 1 GB memory + 10 GB disk |  $9.52 |
+    | Worker 1 | 2 vCPU + 1 GB memory + 10 GB disk | $9.52 |
+    | Worker 2 | 2 vCPU + 1 GB memory + 10 GB disk | $9.52 |
+    |Total | | $38.08 |
 
-    ## Implementasi
+    # Implementasi
 
     ### Set Up dan Konfigurasi Database
     
