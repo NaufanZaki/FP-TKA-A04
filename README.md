@@ -143,38 +143,32 @@ Pada suatu saat anda mendapatkan project untuk mendeploy sebuah aplikasi Sentime
     ***
     ### 2. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 50 dan durasi waktu load testing 60 detik? (tingkat failure harus 0%)
    ![WhatsApp Image 2024-06-21 at 16 05 47_186fdda1](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/7ea449d2-072d-4263-902c-af02281e7952)
-   Mendapatkan 400 Peak Concurrency dengan Spawn Rate 50
+   RPS yang didapatkan berjumlah 131.4 (19.71 poin)
    ***
     ### 3. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 100 dan durasi waktu load testing 60 detik? (tingkat failure harus %)
     ![WhatsApp Image 2024-06-21 at 16 09 49_a6614a03](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/e0283b42-1672-4c67-bd65-2a00215ae0c4)
-    Mendapatkan 400 Peak Currency dengan Spawn Rate 100
+    RPS yang didapatkan berjumlah 130.8 (19.62 poin)
    ***
     ### 4. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 200 dan durasi waktu load testing 60 detik? (tingkat failure harus 0%)
 
     ![WhatsApp Image 2024-06-21 at 16 12 38_0ff690fb](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/d64a3ff4-5332-4365-8cd2-c57fc2ffd8dd)
-    Mendapatkan 400 Peak Concurrency dengan Spawn Rate 200
+    RPS yang didapatkan berjumlah 133.2 (19.98 poin)
    ***
     ### 5. Berapa jumlah peak concurrency maksimum yang dapat ditangani oleh server dengan spawn rate 500 dan durasi waktu load testing 60 detik? (tingkat failure harus 0%)
    ![WhatsApp Image 2024-06-21 at 16 14 46_2d8b1859](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/34a16dd7-75df-4351-aee2-5f8308cbdb5e)
-    Mendapatkan 400 Peak Concurrency dengan Spawn Rate 500
+    RPS yang didapatkan berjumlah 133.7 (20.055 poin)
     ***
-
+    ## Dashboard Project GCP
    ![WhatsApp Image 2024-06-21 at 16 16 44_5a94c39d](https://github.com/NaufanZaki/FP-TKA-A04/assets/128389289/406a125d-1923-4e49-8675-ff37d1684862)
-
-
-
-   
-
-
-
-
-   
 
 
    ## Kesimpulan
 
    Bisa disimpulkan bahwa semakin besar spesifikasi yang digunakan pada suatu environment cloud, maka angka request per second yang dapat di-handle akan semakin besar.
 
+## Video Demo Revisi
+
+https://youtu.be/KNxJaqDo8-A
 
     
 
